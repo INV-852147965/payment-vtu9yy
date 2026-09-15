@@ -1,8 +1,10 @@
 09.15.2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: acj@comcast.com, tkosikrn@aol.com
-At: 2026-09-15 23:02:27
-Id: 3D5AYCoA
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: sealcove@comcast.net, myralacy@sbcglobal.net
+At: 2026-09-15 23:03:07
+Id: Wb5i32jS
